@@ -1,0 +1,14 @@
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Josh\Documents\C++ Programs\WpfApplication1\obj\Debug\WpfApplication1.pdb
