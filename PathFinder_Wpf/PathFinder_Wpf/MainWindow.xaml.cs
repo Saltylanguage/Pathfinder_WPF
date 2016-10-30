@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Diagnostics;
 
 namespace WpfApplication1
 {
@@ -23,9 +24,29 @@ namespace WpfApplication1
         public MainWindow()
         {
             InitializeComponent();
+            /// CommandBinding copyCommand = new CommandBinding(ApplicationCommands.Copy);
+            ///  this.CommandBindings.Add(copyCommand);
+            /// copyCommand.Executed += new ExecutedRoutedEventHandler(copyCommand_Executed);
+            
+           
+        }
+
+        void copyCommand_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            Debug.WriteLine("Copy Executed!");
+        }
+       
+        private void setImage(object sender, RoutedEventArgs e)
+        {
+            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
         {
 
         }

@@ -22,12 +22,13 @@
         <!--=================== START OF MENU=================-->
         <Menu Margin="0,0,48,529" Grid.ColumnSpan="2" HorizontalAlignment="Right" Width="980" Height="27" VerticalAlignment="Bottom">
             <MenuItem Header="_File" VerticalAlignment="Center" HorizontalAlignment="Center">
-                <MenuItem Header="_New Character"/>
-                <MenuItem Header="_Load Character"/>
-                <MenuItem Header ="_Quit"/>
+                <Button Content="_New Character"/>
+                <Button Content="_Load Character"/>
+                <Button Content="_Quit"/>
+   
             </MenuItem>
             <MenuItem Header="_Edit" VerticalAlignment="Center" HorizontalAlignment="Center" >
-                <MenuItem Header="C_ut" />
+                <Button Content="Cut"/>
                 <MenuItem Header="_Copy" />
                 <MenuItem Header="_Paste"/>
             </MenuItem>
@@ -355,7 +356,7 @@
         </StackPanel>
         <!--=================== END OF INIT PANEL=================-->
 
-        <Image Source="C:\Users\Josh\Pictures\Philip-J-Fry_art.jpg" Margin="24,63,192,180" />
+        <Image Source="../Resources/Philip-J-Fry_art.jpg" Margin="24,63,192,180" />
 
         <!--=================== START OF PLAYER INFO PANEL =================-->
         <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" Margin="24,0,0,10" HorizontalAlignment="Left" Grid.ColumnSpan="2" Width="592">
